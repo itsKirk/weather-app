@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## APIs used
+> [Open Weather API](https://openweathermap.org/)
+> >
+> [GeoDB Cities API](https://rapidapi.com/wirefreethought/api/geodb-cities/)
 ## Available Scripts
 
 In the project directory, you can run:
